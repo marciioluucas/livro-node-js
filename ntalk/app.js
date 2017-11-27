@@ -14,7 +14,8 @@ load('models')
     .into(app);
 
 app.listen(3000, function () {
-    console.log("Servidor nas alturas!");
+
+    console.log("Servidor nas alturas! porta 3000");
 });
 
 
